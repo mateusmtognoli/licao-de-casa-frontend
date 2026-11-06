@@ -1,0 +1,6 @@
+{
+  "name": "Espaço Lição de Casa - Base de Alunos",
+  "description": "Painel de gestão de alunos e planos educacionais do Espaço Lição de Casa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
